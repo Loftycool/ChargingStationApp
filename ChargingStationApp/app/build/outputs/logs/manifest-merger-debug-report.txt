@@ -1,0 +1,224 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\de2c205d4d3e6c162873448c42deedf5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\7e1e5903b0f25c38d5ebb9239b17fc90\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\fe1a5d63161c0ca041347693bb867b53\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\67c528c3d83a9ff55646a98a14627cd1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\e3c1ba90eca7b6e60458afd7ef45a2b9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\6003b894c167fc8794321f12465e5080\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\33f2ba9bdd79d769edf143a0087cdda9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\fd023f62b9c5e3d4574febaaaebea32e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\819618e82f12979590f5998b12c1dd8a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\89f1462923fea2c1e9fe89c58a535168\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\9f257a71e74c99ee19bddb52dee239e6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\006306ef76f779468300d2c9b03e662f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\ff72e7ef4f58993a51950b4636512551\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\d2f2ff297958dddf9cd33ca02da2f94c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\51f10f476352c190fc6035a3a627bed3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\5803770b84ea1a712e5c59bd10ec0795\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\95fbd6228324363b8ea1d08067440ea8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\4920c7a68846431a9daf333ecedef294\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\0f6610c868de69189417bab8c6890e3a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\f23a013bef62d88ddf4f7cb765dbd2c9\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\addfdc4c767c1630a1a46d0f4938049c\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\9a5e56a51251c68e845d1ee64219581f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\9afb9502f78bb3b4d0a781ce5248db01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\81091acb3986ccdc442bc6c43e23f5ab\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\20775506ffbab59bf3852f37cb5f3c61\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\7f610a85f6f5dd0411364c757b18f10b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\fbb87a9567fdaf019ba9bb674e642b1f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\4681c504576af40ad6e1823342c6cadd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\84da37e7dddff5a8420ade27a5fc5cb9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\42f013d71c68a17a0726a9490981fb85\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\a03f1e52d932f089a5faf5e3c4e55c18\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:3:5-58
+		INJECTED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:5:5-95
+	android:name
+		ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:6:5-97
+	android:name
+		ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:7:5-66
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\fe1a5d63161c0ca041347693bb867b53\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\fe1a5d63161c0ca041347693bb867b53\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:9:5-26:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\7e1e5903b0f25c38d5ebb9239b17fc90\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\7e1e5903b0f25c38d5ebb9239b17fc90\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\fe1a5d63161c0ca041347693bb867b53\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\fe1a5d63161c0ca041347693bb867b53\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\67c528c3d83a9ff55646a98a14627cd1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\67c528c3d83a9ff55646a98a14627cd1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\e3c1ba90eca7b6e60458afd7ef45a2b9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\e3c1ba90eca7b6e60458afd7ef45a2b9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\6003b894c167fc8794321f12465e5080\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\6003b894c167fc8794321f12465e5080\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\f23a013bef62d88ddf4f7cb765dbd2c9\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\f23a013bef62d88ddf4f7cb765dbd2c9\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\addfdc4c767c1630a1a46d0f4938049c\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\addfdc4c767c1630a1a46d0f4938049c\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\f23a013bef62d88ddf4f7cb765dbd2c9\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:15:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:16:6-17:44
+	android:value
+		ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:17:10-41
+	android:name
+		ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:16:17-62
+activity#navdeepwaliamization.com.chargingstationapp.MainActivity
+ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:19:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml
+INJECTED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\de2c205d4d3e6c162873448c42deedf5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\de2c205d4d3e6c162873448c42deedf5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\7e1e5903b0f25c38d5ebb9239b17fc90\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\7e1e5903b0f25c38d5ebb9239b17fc90\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\fe1a5d63161c0ca041347693bb867b53\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\fe1a5d63161c0ca041347693bb867b53\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\67c528c3d83a9ff55646a98a14627cd1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\67c528c3d83a9ff55646a98a14627cd1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\e3c1ba90eca7b6e60458afd7ef45a2b9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\e3c1ba90eca7b6e60458afd7ef45a2b9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\6003b894c167fc8794321f12465e5080\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\6003b894c167fc8794321f12465e5080\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\33f2ba9bdd79d769edf143a0087cdda9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\33f2ba9bdd79d769edf143a0087cdda9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\fd023f62b9c5e3d4574febaaaebea32e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\fd023f62b9c5e3d4574febaaaebea32e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\819618e82f12979590f5998b12c1dd8a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\819618e82f12979590f5998b12c1dd8a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\89f1462923fea2c1e9fe89c58a535168\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\89f1462923fea2c1e9fe89c58a535168\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\9f257a71e74c99ee19bddb52dee239e6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\9f257a71e74c99ee19bddb52dee239e6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\006306ef76f779468300d2c9b03e662f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\006306ef76f779468300d2c9b03e662f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\ff72e7ef4f58993a51950b4636512551\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\ff72e7ef4f58993a51950b4636512551\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\d2f2ff297958dddf9cd33ca02da2f94c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\d2f2ff297958dddf9cd33ca02da2f94c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\51f10f476352c190fc6035a3a627bed3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\51f10f476352c190fc6035a3a627bed3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\5803770b84ea1a712e5c59bd10ec0795\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\5803770b84ea1a712e5c59bd10ec0795\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\95fbd6228324363b8ea1d08067440ea8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\95fbd6228324363b8ea1d08067440ea8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\4920c7a68846431a9daf333ecedef294\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\4920c7a68846431a9daf333ecedef294\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\0f6610c868de69189417bab8c6890e3a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\0f6610c868de69189417bab8c6890e3a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\f23a013bef62d88ddf4f7cb765dbd2c9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\f23a013bef62d88ddf4f7cb765dbd2c9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\addfdc4c767c1630a1a46d0f4938049c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\addfdc4c767c1630a1a46d0f4938049c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\9a5e56a51251c68e845d1ee64219581f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\9a5e56a51251c68e845d1ee64219581f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\9afb9502f78bb3b4d0a781ce5248db01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\9afb9502f78bb3b4d0a781ce5248db01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\81091acb3986ccdc442bc6c43e23f5ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\81091acb3986ccdc442bc6c43e23f5ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\20775506ffbab59bf3852f37cb5f3c61\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\20775506ffbab59bf3852f37cb5f3c61\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\7f610a85f6f5dd0411364c757b18f10b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\7f610a85f6f5dd0411364c757b18f10b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\fbb87a9567fdaf019ba9bb674e642b1f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\fbb87a9567fdaf019ba9bb674e642b1f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\4681c504576af40ad6e1823342c6cadd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\4681c504576af40ad6e1823342c6cadd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\84da37e7dddff5a8420ade27a5fc5cb9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\84da37e7dddff5a8420ade27a5fc5cb9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\42f013d71c68a17a0726a9490981fb85\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\42f013d71c68a17a0726a9490981fb85\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\a03f1e52d932f089a5faf5e3c4e55c18\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\a03f1e52d932f089a5faf5e3c4e55c18\AndroidManifest.xml:20:5-44
+INJECTED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml
+INJECTED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Lynda Projects\ChargingStationApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\fe1a5d63161c0ca041347693bb867b53\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\fe1a5d63161c0ca041347693bb867b53\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\fe1a5d63161c0ca041347693bb867b53\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\fe1a5d63161c0ca041347693bb867b53\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\fe1a5d63161c0ca041347693bb867b53\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\fe1a5d63161c0ca041347693bb867b53\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\fe1a5d63161c0ca041347693bb867b53\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\fe1a5d63161c0ca041347693bb867b53\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\67c528c3d83a9ff55646a98a14627cd1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\67c528c3d83a9ff55646a98a14627cd1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\67c528c3d83a9ff55646a98a14627cd1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\67c528c3d83a9ff55646a98a14627cd1\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\6003b894c167fc8794321f12465e5080\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\6003b894c167fc8794321f12465e5080\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Arshia\.gradle\caches\transforms-2\files-2.1\6003b894c167fc8794321f12465e5080\AndroidManifest.xml:24:13-58
